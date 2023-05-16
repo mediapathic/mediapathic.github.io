@@ -2,9 +2,9 @@
 
 - Do you have a preference toward reducing or increasing word count? If you are working toward a tight word count for a journal submission, I can prioritize concision, but if not, I can allow for more subtle or elaborate language. 
  
-- My base rate is $60/hr, with a minimum of 4 hours. The depth of editing I do will affect the amount of time spent on edits, and thus, the cost. Given these parameters, please give me an idea of the degree of editing you would like me to do; light, line editing (sufficient for most journal or conference papers) or a deeper pass focusing on flow and cohesion (recommended for narrative nonfiction, grant proposals, or other less formally constricted formats). 
+- My base rate is $60/hr, with a minimum of 4 hours. The depth of editing I do will affect the amount of time spent on edits, and thus, the cost. Given these parameters, please give me an idea of the degree of editing you would like me to do; light, line editing (sufficient for most journal or conference papers) or a deeper pass focusing on flow and cohesion (recommended for narrative nonfiction, grant proposals, or other less formally constricted formats). For more detail on this, please see [[sccp-ratesheet|my ratesheet]]. 
 
-	- In conjunction with the answer above: I will attempt to provide you a rough estimate of the length of time required to perform the edits when I first get access to the documents. If, while working, I determine that the amount of time is going to significantly exceed that, I will communicate with you to determine how to proceed. 
+- In conjunction with the answer above: I will attempt to provide you a rough estimate of the length of time required to perform the edits when I first get access to the documents. If, while working, I determine that the amount of time is going to significantly exceed that, I will communicate with you to determine how to proceed. 
 
 - What is the deadline for the submission? 
  
