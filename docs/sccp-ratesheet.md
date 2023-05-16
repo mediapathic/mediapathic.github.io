@@ -1,7 +1,7 @@
 ---
 title: Rates
 layout: page
---- 
+---
 
 I offer a few different levels of editing, depending on your needs. 
 

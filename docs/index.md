@@ -11,7 +11,7 @@ Feel free to send me an email at [mediapathic@gmail.com](mailto:mediapathic@gmai
 
 ## English is hard
 
-English, as a language, makes very little sense. The rules of grammar can seem like just a series of exceptions, spelling comes from at least three distinct parent languages, and punctuation-- there are at least four different flavors of pause available alone! There are many people with brilliant ideas, unfortunately muffled by the difficulty of navigating this maze of language. If English is your second language, I can help you sharpen your thoughts, and let your ideas shine through.
+English, as a language, makes very little sense. The rules of grammar can seem like just a series of exceptions, spelling comes from at least three distinct parent languages, and punctuation- there are at least four different flavors of pause available alone! There are many people with brilliant ideas, unfortunately muffled by the difficulty of navigating this maze of language. If English is your second language, I can help you sharpen your thoughts, and let your ideas shine through.
 
 ## Technical Difficulties Welcome
 
