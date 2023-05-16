@@ -29,8 +29,7 @@ github_username:  mediapathic
 
 # Build settings
 # theme: minima
-theme: just-the-docs 
-#theme: slate
+theme: slate
 plugins:
   - jekyll-feed
 
