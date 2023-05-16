@@ -28,8 +28,8 @@ twitter_username: mediapathic
 github_username:  mediapathic
 
 # Build settings
-# theme: minima
-theme: slate
+theme: minima
+#theme: slate
 plugins:
   - jekyll-feed
 
