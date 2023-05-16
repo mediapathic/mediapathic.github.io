@@ -5,7 +5,7 @@ layout: page
 
 # Samples
 
-Here are a few examples of papers I have worked on. 
+Here are a few examples of projects I have worked on. 
 
 ### ISTRBoost: Importance Sampling Transfer Regression using Boosting
 
@@ -27,7 +27,7 @@ Partial abstract:
 
 >  Identifying intrusion from massive and multi-source logs accurately and in real-time presents challenges for today's users. This paper presents Paradise, a real-time, generalized, and distributed provenance-based intrusion detection method. Paradise introduces a novel extract strategy to prune and extract process feature vectors from provenance dependencies at the system log level, and it stores them in high-efficiency memory databases. Using this strategy, Paradise does not depend on the specific operating system type or provenance collection framework. Provenance-based dependencies are calculated independently during the detection phase, thus, Paradise can negotiate all detection results from multiple detectors without extra communication overhead between detectors.
 
-### SOK TKTK
+### SoK: Identifying Mismatches Between Microservice Testbeds and Industrial Perceptions of Microservices  
 
 [Identifying Mismatches Between Microservice Testbeds and Industrial Perceptions of Microservices](https://escholarship.org/uc/item/5v3489k8) (JSys link) 
 
